@@ -1,0 +1,12 @@
+C:\Users\Sami\Desktop\Web Developer\Back-end\ProjeKampi\EntityLayer\bin\Release\EntityLayer.dll.config
+C:\Users\Sami\Desktop\Web Developer\Back-end\ProjeKampi\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\Sami\Desktop\Web Developer\Back-end\ProjeKampi\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\Sami\Desktop\Web Developer\Back-end\ProjeKampi\EntityLayer\bin\Release\EntityFramework.dll
+C:\Users\Sami\Desktop\Web Developer\Back-end\ProjeKampi\EntityLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Sami\Desktop\Web Developer\Back-end\ProjeKampi\EntityLayer\bin\Release\EntityFramework.xml
+C:\Users\Sami\Desktop\Web Developer\Back-end\ProjeKampi\EntityLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Sami\Desktop\Web Developer\Back-end\ProjeKampi\EntityLayer\obj\Release\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Sami\Desktop\Web Developer\Back-end\ProjeKampi\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sami\Desktop\Web Developer\Back-end\ProjeKampi\EntityLayer\obj\Release\EntityLayer.csproj.CopyComplete
+C:\Users\Sami\Desktop\Web Developer\Back-end\ProjeKampi\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\Sami\Desktop\Web Developer\Back-end\ProjeKampi\EntityLayer\obj\Release\EntityLayer.pdb
